@@ -1,5 +1,5 @@
 [package]
-name = "perlin_rust"
+name = "jordan4ibanez_perlin_rust"
 version = "0.0.1"
 edition = "2021"
 keywords = ["noise","perlin"]
